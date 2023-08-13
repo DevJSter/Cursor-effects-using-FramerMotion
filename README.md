@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Here are the screenshots of the project
 ![Project Preview](./public/frame.jpg)
+
+![frame2](https://github.com/DevJSter/Cursor-effects-using-FramerMotion/assets/115056248/74356c97-e937-470a-afb7-86b433e69a22)
+
+![Frame3](https://github.com/DevJSter/Cursor-effects-using-FramerMotion/assets/115056248/bfc0418a-da3f-4c3b-ae6f-dc465f58edbf)
 
 ## Available Scripts
 
